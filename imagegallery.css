@@ -1,0 +1,8 @@
+/*adds whitespace to top of page because of static nav*/
+body {
+	padding-top: 70px;
+}
+
+.jumbotron {
+	color: #2c3e50;
+}
